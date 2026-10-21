@@ -1,6 +1,6 @@
 import { defineConfig } from "astro/config";
 
 export default defineConfig({
-  site: "https://dhruvxcode.github.io",
+  site: "https://xenodhruv.github.io",
   output: "static"
 });
