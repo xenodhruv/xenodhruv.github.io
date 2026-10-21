@@ -1,6 +1,6 @@
 # Dhruv Gupta
 
-Fresh Astro rebuild of `DhruvXcode.github.io`.
+Fresh Astro rebuild of `xenodhruv.github.io`.
 
 ## Run locally
 
